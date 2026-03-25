@@ -162,10 +162,9 @@ The complete analysis, including detailed insights, methodology, and recommendat
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot 1](your-image-link)
-![Dashboard Screenshot 2](your-image-link)
-
-[View Full Dashboard](your-link)
+![Overview](images/dashboard-overview.png)
+![Performance](images/delivery-performance.png)
+![Insights](images/customer-insights.png)
 
 ---
 
