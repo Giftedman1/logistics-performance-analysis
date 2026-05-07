@@ -167,7 +167,9 @@ The complete analysis, including detailed insights, methodology, and recommendat
 ![Insights](images/customer-insights.png)
 
 ---
+
 Interact with the dashboard here: https://app.powerbi.com/view?r=eyJrIjoiMWQ0ZjVjYTctNThkMi00M2Y1LTg2OTItMGNmYWI5ODNhNjAxIiwidCI6IjkxNWM3ZmVjLTk2Y2UtNDQ5Yy1iNzdiLWI4MWNiOWQ5ZDg4OSJ9
+
 ---
 
 ## Business Impact
