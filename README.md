@@ -197,13 +197,6 @@ Improvement requires **data-driven decision-making and operational restructuring
 
 ---
 
-## Key Learnings
-- Data analysis is most valuable when tied to business decisions  
-- Operational inefficiencies often have direct financial consequences  
-- Aggregated metrics can hide critical performance gaps  
-- Segmentation reveals deeper and more actionable insights  
-
----
 
 ## Author
 **Muh’Qoozim Muh’Jamiu**  
