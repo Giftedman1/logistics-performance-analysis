@@ -19,7 +19,6 @@
 - Dashboard Preview
 - Business Impact
 - Conclusion
-- Key Learnings
 - Author
 
 ---
